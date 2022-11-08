@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Google Place Autocomplete",
+  "name": "Assesment ReactJs Google Place Autocomplete",
   "icons": [
     {
       "src": "favicon.ico",
